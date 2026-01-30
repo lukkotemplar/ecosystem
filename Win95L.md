@@ -84,6 +84,11 @@ The bar will have the following elements in order:
 It will also have the following settings
 - Row size: 28px
 - Fixed icon size: 17px
+## ADITIONAL SETTINGS
+- Display: 1.75 or 1.5
+- DPI: 99
+- Font: Helvetica, size 9
+- Window Manager style: Chicago95, Helvetica Bold 9
 ## CONCLUSION
 This is the complete additional setup of the Windows 95 system, after doing all the configurations from the official repo of Chicago95.
 Any changes to the system will be documented here.
