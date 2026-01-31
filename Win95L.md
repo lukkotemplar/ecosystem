@@ -50,6 +50,7 @@ APPEARANCE
 - Font: Less Perfect DOS VGA Regular, size 12
 - Background: None
 - Colors: Chicago95 Preset
+The terminal's behaviour will be very, very similar to the MS-DOS one, with commands, displaying and spacing changed to match that one.
 #### TAKING NOTES
 Neovim will be used. It's conf files will be uploaded to GitHub.
 #### VIDEO PLAYING
