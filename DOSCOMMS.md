@@ -34,4 +34,6 @@ Restores files deleted with DEL
 ## TYPE
 Similar to cat, displays content of files
 ## MORE
-Used with TYPE to display more of the file
+Used with TYPE and a pipe to display more of the file
+## CONCLUSION
+For the first version, this commands will be used. They will be in a separate file, and sourced from .bashrc
